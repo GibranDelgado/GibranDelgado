@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @GibranDelgado
-- 👀 I’m interested in Data Engineering and Data Science 
-- 🌱 I’m currently learning SQL and Python Languages
-- 💞️ I’m looking to collaborate on Accenture
+- 👀 I’m interested in Programming, Data Engineering, Data Science, Electronic instrumentation
+- 🌱 I’m currently learning SQL, Tableau, Python, Informatica PowerCenter Languages
 - 📫 How to reach me https://www.linkedin.com/in/gibran-deal-675965229
 
 <!---
