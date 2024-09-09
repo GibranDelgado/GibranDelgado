@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @GibranDelgado
-- 👀 I’m interested in Programming, Data Engineering, Data Science, Electronic instrumentation
+- 👀 I’m interested in Programming, Data Engineering, Data Science
 - 🌱 I’m currently learning SQL, Tableau, Python, Informatica PowerCenter Languages
 - 📫 How to reach me https://www.linkedin.com/in/gibran-deal-675965229
 
